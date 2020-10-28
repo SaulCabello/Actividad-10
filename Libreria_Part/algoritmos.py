@@ -1,4 +1,3 @@
-# algortimos.py
 import math
 
 def distancia_euclidiana(origen_x, origen_y, destino_x, destino_y):
